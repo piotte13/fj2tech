@@ -13,6 +13,24 @@
 
     <!-- style (always cache it) -->
     {{ partialCached "essentials/style.html" . }}
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.birds.min.js"></script>
+    <script>
+      window.onload = function () {
+        VANTA.BIRDS({
+          el: "#birds-background",
+          mouseControls: true,
+          touchControls: true,
+          gyroControls: true,
+          scale: 1.00,
+          scaleMobile: 1.00,
+          backgroundColor: 0xffffff,
+          color1: 0x0,
+          color2: 0xf6f6f6
+        })
+      };
+    </script>
   </head>
 
   <body>
