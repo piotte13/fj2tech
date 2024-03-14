@@ -13,13 +13,13 @@ hasChildren = true
 
 [[main]]
 parent = "Services"
-name = "Machine Learning"
+name = "Artificial Engineering"
 url = "blog/"
 weight = 1
 
 [[main]]
 parent = "Services"
-name = "Application Development"
+name = "Software Engineering"
 url = "authors/"
 weight = 2
 

@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Harnessing Technology to Drive Success"
-  content: "Machine Learning. Application Development. Project Management."
+  content: "Artificial Intelligence. Software Engineering. Project Management."
   image: "/images/banner.png"
   button:
     enable: true
@@ -11,7 +11,7 @@ banner:
 
 # Features
 features:
-  - title: "Machine Learning"
+  - title: "Artificial Intelligence"
     image: "/images/service-1.png"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis convallis est. Nullam placerat urna ex, at pulvinar lorem malesuada et. Integer suscipit placerat tellus, eu rhoncus ipsum commodo ut."
     bulletpoints:
@@ -25,7 +25,7 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - title: "Application Development"
+  - title: "Software Engineering"
     image: "/images/service-2.png"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis convallis est. Nullam placerat urna ex, at pulvinar lorem malesuada et. Integer suscipit placerat tellus, eu rhoncus ipsum commodo ut."
     bulletpoints:
