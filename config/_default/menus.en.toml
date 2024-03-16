@@ -13,31 +13,54 @@ hasChildren = true
 
 [[main]]
 parent = "Services"
-name = "Artificial Engineering"
-url = "blog/"
+name = "Artificial Intelligence"
+url = "services/ai/"
 weight = 1
 
 [[main]]
 parent = "Services"
 name = "Software Engineering"
-url = "authors/"
+url = "services/software/"
 weight = 2
 
 [[main]]
 parent = "Services"
 name = "Project Management"
-url = "contact/"
+url = "services/pm/"
+weight = 3
+
+[[main]]
+weight = 3
+name = "The Team"
+hasChildren = true
+
+[[main]]
+parent = "The Team"
+name = "Jérémie"
+url = "team/Jérémie/"
+weight = 1
+
+[[main]]
+parent = "The Team"
+name = "Frederick"
+url = "team/Frederick/"
+weight = 2
+
+[[main]]
+parent = "The Team"
+name = "Julien"
+url = "team/Julien/"
 weight = 3
 
 [[main]]
 name = "About"
 url = "about/"
-weight = 3
-
-[[main]]
-name = "Blog"
-url = "blog/"
 weight = 4
+
+#[[main]]
+#name = "Blog"
+#url = "blog/"
+#weight = 5
 
 
 # footer menu
