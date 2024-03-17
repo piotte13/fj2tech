@@ -44,7 +44,7 @@ link = "contact"
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
-enable = true
+enable = false
 primary_color = "#121212"
 include_sections = ["blog"]
 show_image = true
@@ -56,10 +56,10 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-image = "images/og-image.png"
+keywords = ["FJ2 Tech", "Artificial Intelligence", "Software Engineering", "Project Management", "ai"]
+description = "FJ2 Tech: Montreal-based tech experts in project management, software engineering & AI. Harnessing innovation to propel your business forward."
+author = "FJ2 Technologies"
+image = "images/logo.svg"
 
 
 # site verifications
