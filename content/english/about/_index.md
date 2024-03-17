@@ -2,7 +2,7 @@
 title: "FJ2 Technologies"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/montreal_silhouette.png"
+image: "/images/montreal_silhouette.svg"
 draft: false
 ---
 
