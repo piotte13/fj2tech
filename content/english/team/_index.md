@@ -4,7 +4,7 @@ features:
     email: johndoe@email.com
     image: "/images/1602273818197.jpg"
     description: this is meta description
-    content: lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+    content:
     social:
     - name: linkedin
       icon: fa-brands fa-linkedin
@@ -18,7 +18,7 @@ features:
     email: johndoe@email.com
     image: "/images/1583032449310.jpg"
     description: this is meta description
-    content: lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+    content:
     social:
       - name: linkedin
         icon: fa-brands fa-linkedin
@@ -34,7 +34,7 @@ features:
     email: johndoe@email.com
     image: "/images/1517568008865.jpg"
     description: this is meta description
-    content: lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+    content:
     social:
       - name: linkedin
         icon: fa-brands fa-linkedin
