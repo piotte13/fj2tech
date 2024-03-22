@@ -2,7 +2,7 @@
 features:
   - title: Frederick Dumas
     email: johndoe@email.com
-    image: "/images/1602273818197.jpg"
+    image: "/images/fred_2.png"
     description: this is meta description
     content:
     social:
@@ -16,7 +16,7 @@ features:
 
   - title: Jeremie Piotte
     email: johndoe@email.com
-    image: "/images/1583032449310.jpg"
+    image: "/images/jeremie_2.png"
     description: this is meta description
     content:
     social:
@@ -28,11 +28,9 @@ features:
         icon: fa-brands fa-github
         link: https://github.com/piotte13
 
-
-
   - title: Julien Audet
     email: johndoe@email.com
-    image: "/images/1517568008865.jpg"
+    image: "/images/julien_2.png"
     description: this is meta description
     content:
     social:
