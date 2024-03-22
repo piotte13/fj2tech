@@ -39,12 +39,6 @@ name = "About"
 url = "about/"
 weight = 4
 
-#[[main]]
-#name = "Blog"
-#url = "blog/"
-#weight = 5
-
-
 # footer menu
 [[footer]]
 name = "About"

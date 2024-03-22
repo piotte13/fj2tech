@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false
 title: "What Client Are Saying About Us"
 description: "Don't just take our word for it - hear from some of our satisfied clients!  Check out some of our testimonials below to see what others are saying about FJ2Tech."
 
